@@ -2,7 +2,7 @@
 Unity 3D Web Game
 # README.md
 
-# Architectural Harmony: An Asian Aesthetic Journey
+# Echoes-of-the-East: An Asian Aesthetic Journey
 
 ## 🏯 Game Overview
 

@@ -30,12 +30,8 @@ To provide an engaging, interactive learning experience that helps international
 - Han SongLyu – 123090150 – 123090150@link.cuhk.edu.cn
 - Li Yirui – 122090288 – 122090288@link.cuhk.edu.cn
 - Liu Daixin - 123090349 - 123090349@link.cuhk.edu.cn
-- 
-### Core Team
-- **Lead Developer & Project Manager**: Unity3D implementation and AI integration
-- **Architectural Research Specialist**: Content accuracy and cultural authenticity
-- **UI/UX Designer**: User interface and experience optimization
-- **Narrative Designer**: Dialogue systems and educational flow
+
+
 
 ### Key Contributions
 - **AI Integration**: Successfully implemented DeepSeek API for dynamic, context-aware conversations

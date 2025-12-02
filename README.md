@@ -121,20 +121,9 @@ To provide an engaging, interactive learning experience that helps international
 
 ## 🚀 How to Run the Game
 
-### Prerequisites
-1. Unity3D 2022.3 or later
-2. DeepSeek API key (obtain from DeepSeek platform)
-3. Basic Unity development environment
+web:https://echoesofeast.netlify.app/
+web:echoesofeast.netlify.app
 
-### Installation Steps
-```bash
-1. Clone the repository
-2. Open project in Unity
-3. Configure API key in APIManager.cs
-4. Set up scene coordinates for your environment
-5. Configure UI elements as described in setup documentation
-6. Build and run
-```
 
 ### Configuration
 - **API Key**: Insert your DeepSeek API key in `APIManager.cs`
@@ -142,18 +131,6 @@ To provide an engaging, interactive learning experience that helps international
 - **Word Limits**: Adjust in inspector for different learning levels
 - **Transition Distance**: Modify for different exploration requirements
 
-## 📁 Project Structure
-```
-Assets/
-├── Scripts/
-│   ├── APIManager.cs        # AI integration and dialogue management
-│   ├── DialogueManager.cs   # Conversation flow and UI control
-│   ├── NPCController.cs     # NPC interaction logic
-│   └── DialogueUIManager.cs # UI element management
-├── Scenes/                  # Unity scene files
-├── Prefabs/                 # Reusable game objects
-└── Documentation/           # Setup and usage guides
-```
 
 ## 🔮 Future Development
 

@@ -70,12 +70,7 @@ To provide an engaging, interactive learning experience that helps international
    - Maintained conversational flow across 8 sequential scenes
    - Implemented word limits without sacrificing educational value
 
-2. **Effective Learning Outcomes**
-   - 87% of testers could correctly identify Asian architectural principles after playing
-   - Average knowledge retention increased by 62% compared to traditional text-based learning
-   - Players reported 3.8x higher engagement than conventional educational materials
-
-3. **User Experience Successes**
+2. **User Experience Successes**
    - **Fixed First Response System**: Ensured consistent initial learning foundation
    - **Dual-Condition Progression**: Increased exploration and spatial awareness
    - **Emotional Sensing**: Allowed adaptive dialogue based on player responses
